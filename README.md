@@ -1,10 +1,6 @@
 
-This is your group repo for your final project for COGS108.
+This is the capstone project for my COGS 108 (Data Science in Practice) class. 
 
-This repostory is private, including to other students in the class, but visible to COGS108 instructors. 
+In this project my team analysed the Presidential Election's effects on 911 calls in Pennsylvania. 
 
-This repository will be frozen on the due date - at 11:59pm on Tuesday, June 13th.
-
-Your final project will be graded based solely on a project notebook.
-
-Make sure you have a notebook called 'FinalProject.ipynb' present in this repository by the due date. 
+For details and analysis, please refer the proposal and final project iPython Notebooks.
